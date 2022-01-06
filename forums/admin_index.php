@@ -143,7 +143,7 @@ $punid =  $pun_user['id'];
 					</dd>
 					<dt><?php echo $lang_admin_index['Support label'] ?></dt>
 					<dd>
-						<a href="gamesense.pub/forums/index.php"><?php echo $lang_admin_index['Forum label'] ?></a> - <a href="http://fluxbb.org/community/irc.html"><?php echo $lang_admin_index['IRC label'] ?></a>
+						<a href="http://fluxbb.org/forums/index.php"><?php echo $lang_admin_index['Forum label'] ?></a> - <a href="http://fluxbb.org/community/irc.html"><?php echo $lang_admin_index['IRC label'] ?></a>
 					</dd>
 				</dl>
 			</div>

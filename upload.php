@@ -8,10 +8,10 @@ define('TWITTER_CARDS', false);
 
 
 define('IMAGESERVE_DIR', '');
-define('TWITTER_HANDLE', '@PubCc');
+define('TWITTER_HANDLE', '@aerouk_');
 
-define('APP_NAME', 'ReflectiveLoader.exe');
-define('PASSKEY', 'zPQ6uinI0usDn3YfiIftLPZYeqT1Tw'); 
+define('APP_NAME', 'RESOLVY.US');
+define('PASSKEY', 'zPQ6uinI0usDn3YfiIftLPZYeqT1Tw');
 
 
 $allowedTypes = array('image/png', 'image/jpeg');//,  'image/gif', 'video/webm');
